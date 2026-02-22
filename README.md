@@ -207,9 +207,6 @@ def lambda_handler(event, context):
 
 Great! We connected our EFS to our lambda function and we are using the libraries that we installed there in our EC2!
 
-#### 📋  Next Lecturer we will do different example with more libraries using Serverless API and API Gateway
-To reach : https://github.com/sedaatalay/Deploying-large-python-packages-on-AWS-Lambda-using-EFS
-
 
 <p></br>
    <p>
